@@ -86,22 +86,3 @@ img{
     }
 }
 
-@media only screen and (max-width:1500px){
-    .home{
-        margin-left: 50px;
-    }
-    img{
-        height: 400px;
-    }
-    .p{
-        margin-top: 50px;
-    }
-    .ab{
-        margin-right: 100px;
-    }
-    .sidepic{
-        width: 100%;
-        height: 400px;
-        margin: 0;
-    }
-}
